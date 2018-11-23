@@ -13,7 +13,7 @@
 
 
 ## Adding Apollo and GraphQl 
-Installed the following packages for GraphQL and Apollo
+Installed the following packages for GraphQL and Apollo. (THAT'S ALOT OF THINGS JUST FOR THE CLIENT!)
 1) react-apollo 
 2) apollo-client
 3) apollo-link-http
