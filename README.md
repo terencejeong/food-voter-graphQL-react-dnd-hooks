@@ -17,7 +17,8 @@ WIP App can be found here
 1) Using Apollo Mutations is a bit annoying, writing to the cache as well as the db. 
 2) Passing the mutation function is also a bit weird feeling, not sure how I feel about this yet but definitely something to read up on and what good practice is.
 3) GraphQL offers a lot of power, but with great power comes great responsibility. Using it further for the BE and FE I believe a strict pattern should be in place ensuring logical separation of concerns.
-4) That being said, I do love/am really excited by this technology and will continue to play around with it more!
+4) react-beautiful-dnd is fantastic! However it did get very tricky making it work with Apollo and GraphQL. Definetly need to refactor and figure out a way to batch the mutations in someway? I also don't like the mutating of data. Although we are passed the droppableId, still feels a little awkward. 
+5) That being said, I do love/am really excited by GraphQL + Apollo and will continue to play around with it more!
 
 ## Adding Apollo and GraphQl 
 Installed the following packages for GraphQL and Apollo. (THAT'S ALOT OF THINGS JUST FOR THE CLIENT!)
